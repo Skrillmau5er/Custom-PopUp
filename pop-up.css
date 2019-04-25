@@ -1,0 +1,13 @@
+body{
+    background: grey;
+}
+
+.container{
+    margin: 0 auto;
+}
+.pop-up{
+    background: white;
+    border-radius: 10px;
+    padding: 30px;
+    width: 500px;
+}
