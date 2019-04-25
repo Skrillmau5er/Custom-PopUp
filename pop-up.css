@@ -34,14 +34,16 @@ body{
 }
 
 #cancel{
-    float: right;
+    position: absolute;
+    height: 25px;
+    width: auto;
     display: inline-block;
     transition: 0.3s;
-    font-weight: bolder;
-    font-size: 20px;
+    right: 7px;
+    top: 7px;
 }
 
 #cancel:hover{
-    color: red;
+    opacity: 0.5;
     cursor: pointer;
 }
