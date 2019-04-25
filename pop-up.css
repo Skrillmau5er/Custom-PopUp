@@ -1,5 +1,4 @@
 body{
-    background: url('https://coolbackgrounds.io/images/backgrounds/index/sea-edge-79ab30e2.png');
     margin: 0;
 }
 #pop-up{
@@ -28,7 +27,7 @@ body{
 
 #discountCode{
     background: #80c3eb;
-    padding: 2px 20px 2px 20px;
+    padding: 2px 40px 2px 40px;
     font-weight: bold;
     color: white;
 }
@@ -46,4 +45,18 @@ body{
 #cancel:hover{
     opacity: 0.5;
     cursor: pointer;
+}
+
+#topText{
+    margin-bottom: 0;
+}
+
+#headerText{
+    margin-top:0;
+}
+
+.slim{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 24px;
 }

@@ -1,4 +1,4 @@
-const timeOut = 1000;
+const timeOut = 32000;
 
 window.onload = function(){
     let popUp = document.getElementById('pop-up');
