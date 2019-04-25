@@ -13,4 +13,4 @@ window.onclick = function(event) {
     if (event.target == popUp || event.target == cancel) {
       popUp.style.display = "none";
     }
-  }
+}

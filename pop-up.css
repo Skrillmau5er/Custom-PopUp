@@ -1,5 +1,5 @@
 body{
-    background: white;
+    background: url('https://coolbackgrounds.io/images/backgrounds/index/sea-edge-79ab30e2.png');
     margin: 0;
 }
 #pop-up{
@@ -23,7 +23,7 @@ body{
     text-align: center;
     border-radius: 5px;
     transform: translate(-50%, -50%);
-    box-shadow: 0px 0px 14px 2px #767676;
+    box-shadow: 0px 0px 14px 0px #434343;
 }
 
 #discountCode{
